@@ -4,6 +4,7 @@
 ##Contacts
 
 Email: maxb1612@gmail.com
+Telegram: @m_boldyr
 
 
 ##Profile
