@@ -23,7 +23,7 @@ Basic knowlege of HTML, CSS, C#, Java and Laravel. Entry-level knowlege of C, C+
 ## Expirience
 
 Developed a website for second-year course work. Front end was developed using HTML and CSS, while server side was developed using PHP with Laravel framework and MySQL database.  
-![Link](https://github.com/maxb1612/cinemax)
+[Link to project on github.](https://github.com/maxb1612/cinemax)
 
 
 ## Education
