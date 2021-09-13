@@ -9,8 +9,9 @@ Telegram: @m_boldyr
 
 ## Profile
 
-Third-year student at Kyiv Polytechnic Institute. My main goal is to become a full stack .NET developer. Current priorities are gaining strong knowlege of  
-C# and .NET platform in general and to develop intermediate knowlege of HTML, CSS, JavaScript and Angular. Also interested in studying MS SQL Server and basic database design.  
+Third-year student at Kyiv Polytechnic Institute. My main goal is to become a full stack .NET developer.  
+Current priorities are gaining strong knowlege of C# and .NET platform in general and to develop intermediate knowlege of HTML, CSS, JavaScript and Angular.  
+Also interested in studying MS SQL Server and basic database design.  
 I have good communication skills and I am also very good at finding a compromise with others. Not afraid of taking responsibility  and making decisions.
 
 
